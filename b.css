@@ -1,0 +1,13 @@
+.image {
+    height: 310px;
+    max-width: 100%;
+    margin: 10px auto;
+
+}
+
+body {
+    margin: 100px auto;
+    max-width: 900px;
+    background-color: white;
+    box-sizing: border-box;
+}
